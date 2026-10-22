@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the published paper when using this repository."
+title: "Code archive: Bayesian model comparison for random effects probit models with missing covariates"
+license: MIT
+authors:
+  - family-names: "Bergrab"
+    given-names: "Michael"
+references:
+  - type: article
+    title: "Bayesian model comparison for random effects probit models with missing covariates"
+    doi: "10.1007/s10260-026-00878-5"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Bergrab"
+      given-names: "Michael"
+  title: "Bayesian model comparison for random effects probit models with missing covariates"
+  journal: "Statistical Methods & Applications"
+  year: 2026
+  doi: "10.1007/s10260-026-00878-5"
